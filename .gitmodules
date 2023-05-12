@@ -1,0 +1,3 @@
+[submodule "EasyPay"]
+	path = EasyPay
+	url = https://github.com/Ayon-SSP/EasyPay
